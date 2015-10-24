@@ -6,3 +6,4 @@ dev/npm-debug.log
 dev/node_modules/
 dev/bower_components/
 dev/vendor/
+.idea
